@@ -14,8 +14,8 @@
 #define LAYER_SNIPE        4
 #define LAYER_USER         5
 
-#define POINTER_MULTIPLIER 6
-#define POINTER_DIVISOR    5
+#define POINTER_MULTIPLIER 36
+#define POINTER_DIVISOR    25
 
 #define TWIST_MULTIPLIER   6
 #define TWIST_DIVISOR      5
