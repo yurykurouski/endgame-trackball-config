@@ -17,7 +17,7 @@
 #define POINTER_MULTIPLIER 7
 #define POINTER_DIVISOR    4
 
-#define TWIST_MULTIPLIER   (-1)
+#define TWIST_MULTIPLIER   1
 #define TWIST_DIVISOR      1
 
 #define SCROLL_MULTIPLIER  1
